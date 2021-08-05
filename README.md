@@ -1,4 +1,4 @@
-# FAIDX
+# MULTIQC
 # Language: C++
 # Input: DIR
 # Output: DIR
