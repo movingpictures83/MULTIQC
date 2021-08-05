@@ -1,0 +1,2 @@
+Prefix plugins/MULTIQC/example
+Plugin MULTIQC inputfile . outputfile .
