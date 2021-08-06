@@ -12,7 +12,7 @@ def test(file1, file2):
       return False
 
    for i in range(0, len(lines1)):
-       if ("generated on" not in lines1[i]):
+       if ("generated on" not in lines1[i] and "code class" not in lines1[i]):
          if (lines1[i] != lines2[i]):
             return False
 
